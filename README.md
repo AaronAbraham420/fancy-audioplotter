@@ -35,4 +35,3 @@ streamlit run app.py
 
 ```
 
-if you want to plot audio waveforms in a way that looks fancy and polished, here’s how we can do it step by step using Python.
