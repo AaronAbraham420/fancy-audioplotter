@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 🌟 Features
 
 - 🔁 **Drag-and-drop `.wav` upload** (Streamlit web interface)
@@ -17,7 +18,7 @@
 
 ## 🖼️ Preview
 
-(coming Soon)
+<img width="1728" alt="Screenshot 2025-06-29 at 6 34 17 PM" src="https://github.com/user-attachments/assets/512ce722-fa8a-47d3-9226-587904ad117f" />
 
 ---
 
